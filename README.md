@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47ohn2bvgzkjffiqonv9ka13l1lryord2aobeuq919&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<p align="left">Languages and tools that I have worked with..</p>
 
 ###
 
@@ -44,23 +44,29 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="171" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47ohn2bvgzkjffiqonv9ka13l1lryord2aobeuq919&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-<div align="right">
+###
+
+<p align="left">Connect with me here ..</p>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/yogesh-ykd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="87" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/yogeshkumar86072@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="87" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/yogesh.ykd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="87" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/yogesh-ykd/count.svg?"  />
 </div>
 
